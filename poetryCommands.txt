@@ -1,0 +1,5 @@
+# Start env
+poetry shell
+
+# add dependency
+poetry add <dependency>
